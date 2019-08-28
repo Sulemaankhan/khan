@@ -6,6 +6,10 @@ static void showDetails(){
       }
  public static void main(Strins []args){
       A.showDetails();
+      
+      
+      
+      System.out.println("ravi");
       }
   }
  
