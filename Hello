@@ -1,1 +1,11 @@
 
+class A{
+    int a;
+static void showDetails(){
+      System.out.println(a);
+      }
+ public static void main(Strins []args){
+      A.showDetails();
+      }
+  }
+ 
