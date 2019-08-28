@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<SoftwareAG_License>
+<Component Id="SalesInfo">
+<SerialNumber>0000396376</SerialNumber>
+<LicenseKey>D75ECC4191206B6CD26984BCF0D69879</LicenseKey>
+<CustomerID>8104385</CustomerID>
+<CustomerName>Becton, Dickinson &amp; Company </CustomerName>
+<ContractDetails>2047222</ContractDetails>
+<ContractPosNumber>000840</ContractPosNumber>
+<LicenseTypeDetails>External</LicenseTypeDetails>
+<AutoCallHome/>
+</Component>
+<Component Id="ProductInfo">
+<ExpirationDate>Unlimited</ExpirationDate>
+<OS>Linux</OS>
+<ProductCode>OTN</ProductCode>
+<ProductID/>
+<ProductName>webMethods Trading Networks</ProductName>
+<ProductVersion>10.0</ProductVersion>
+<Usage>Development</Usage>
+<RenewalDate/>
+<HigherLevPosNr>000000</HigherLevPosNr>
+<HigherLevProdCode/>
+<HigherLevProdName/>
+</Component>
+<Component Id="Integration Server">
+<ProductCode>PIE</ProductCode>
+<ProductVersion>10.0</ProductVersion>
+<ConcurrentSessions>Unlimited</ConcurrentSessions>
+<Clustering>yes</Clustering>
+<PubSub>yes</PubSub>
+<ART>yes</ART>
+<RemoteInvoke>yes</RemoteInvoke>
+<GuaranteedDelivery>yes</GuaranteedDelivery>
+<SecurityAuditing>yes</SecurityAuditing>
+<DistributedCache>yes</DistributedCache>
+<EnterpriseGateway>yes</EnterpriseGateway>
+</Component>
+<Component Id="Trading Networks">
+<ProductCode>OTN</ProductCode>
+<MaxPartners>Unlimited</MaxPartners>
+</Component>
+<Component Id="LicenseInfo">
+<PriceUnit>ST</PriceUnit>
+<PriceQuantity>1</PriceQuantity>
+<TypeOfInstallation>Development</TypeOfInstallation>
+<LicenseType>Development</LicenseType>
+<ExtendedRights/>
+<LicenseVersion>1.2</LicenseVersion>
+<Metering/>
+</Component>
+</SoftwareAG_License>
