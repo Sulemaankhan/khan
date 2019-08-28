@@ -1,0 +1,35 @@
+1->Create maven "catcher" project with pom.xml
+	add all required jar into pom.xml
+	clean,
+	compile,
+	test,
+	Package,=>jar-create jar of catcher and past into "TestEngine" folder
+	install=jar-create jar of catcher and past into destination and .m2 folder
+	
+2->Create maven "runner" project with pom.xml
+	add all required jar into pom.xml
+	compile
+	runtest
+	jar-create jar of catcher and runner and past into "TestEngine"
+
+3->Create maven "TestEngine" project with pom.xml
+	add all required jar into pom.xml
+	read properties file->set Releasing version and all
+	run.bat
+	getversion.bat
+	create zip of TestEngine and store into- TestEngine/dist folder
+	clean
+	package
+	
+
+4->Create maven "TestRunner" project with pom.xml
+	add all required jar into pom.xml
+	read properties file->set Releasing version and all
+	run.bat
+	getversion.bat
+	create zip of TestRunner and store into- TestRunner/dist folder
+	clean
+	package
+
+Delete the Directory
+	C:\SoftwareAG101\IntegrationServer\instances\default\packages>RMDIR CgAutomationTestEngine11
