@@ -18,6 +18,9 @@ class Tables
       for (d = 1; d <= 10; d++) {
         System.out.println(c+"*"+d+" = "+(c*d));
       }
+      
+        System.out.println("dhfgsjkd");
+      
     }
   }
 }
