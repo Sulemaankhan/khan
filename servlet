@@ -7,6 +7,12 @@ servlet
  
   
   changed in jsp branch
-=======
+=======================
+session
+cookies
+pageContext
+Exception
+request
+response
 
 
