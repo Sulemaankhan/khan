@@ -3,9 +3,6 @@ servlet
   config
   context
   
-  jsp
-  -------
-  session
-  cookies
+ 
   
-  changed in servlet branch
+  changed in jsp branch
