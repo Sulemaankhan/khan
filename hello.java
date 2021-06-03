@@ -6,7 +6,7 @@ class AddNumbers
  
       System.out.println("Enter two integers to calculate their sum");
       Scanner in = new Scanner(System.in);
-     //x is input value
+     //x is input 
       x = in.nextInt();
       y = in.nextInt();
       z = x + y;
